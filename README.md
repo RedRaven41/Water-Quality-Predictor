@@ -49,8 +49,8 @@ Model: A Random Forest Classifier (100 estimators) is trained on 80% of the data
 Output: The model predicts binary class 0 (Unsafe) or 1 (Safe).
 
 ## 👨‍💻 Student Details
-Name: Swastik kumar Barik 
+Name: Tanishq Chaudhary 
 
-Reg No:25BOE10064 
+Reg No:25BAI10574
 
 Course: Fundamentals in AIML 
